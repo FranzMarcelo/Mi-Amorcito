@@ -1,0 +1,10 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+h1{ 
+	font-size:50px; /*tamaño de letra*/
+	text-align:center;/*alineacion de letra*/
+	
+	width:100%; /*ancho de pantalla que utilizara*/
+	padding: 0px 0px;/*espacio*/
+}
